@@ -9,7 +9,7 @@ Finding local events means searching across a multitude of disconnected sources,
 
 I architected and built two systems end to end through agentic engineering, one feeding the other:
 
-- **A headless data product:** Python ingestion across APIs, feeds, and structured scraping, enriched by an AI layer and normalized into a canonical Postgres schema. Built to power both the app and a B2B API.
+- **A headless data product:** Python ingestion across APIs, feeds, and structured scraping, enriched by an AI layer and normalized into a canonical Postgres schema. Built to power the app, and API-ready by design.
 - **The app:** a React Native and TypeScript iOS client, built on a design system of tokens and atomic components, with auth flows and accessibility built in.
 
 Aggregating this many sources and events is a data-quality and AI-evals problem before it becomes a product. I built a five-stage deterministic dedup pass that collapses the same event arriving from different sources, then I enrich and classify all records with AI using a Claude API.
