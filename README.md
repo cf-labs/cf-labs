@@ -1,4 +1,4 @@
-### Product leader and AI-native builder
+## Product leader and AI-native builder
 
 AI, data, and UX work as one system. Trust starts with meeting users in their workflow and giving them real value. It holds when measured by evals for its use case, and the underlying services, data contracts, and permissions are designed in from the start.
 
