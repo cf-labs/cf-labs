@@ -1,10 +1,10 @@
-### Product leader and AI-native builder
+## Product leader and AI-native builder
 
 AI, data, and UX work as one system. Trust starts with meeting users in their workflow and giving them real value. It holds when measured by evals for its use case, and the underlying services, data contracts, and permissions are designed in from the start.
 
 ## About
 
-I've led portfolios of revenue-generating data and AI products across e-commerce and regulated B2B SaaS in life sciences, HR tech, and financial services. Before Gen AI, my work has spanned ML and data-science products fueling personalization, risk scoring, and forecasting. Most recently, at MasterControl, I launched the company's first GA AI product to market. A predictive scoring model in a regulated, human-in-the-loop workflow, surfaced through admin dashboards and in-app notifications. Most of my work has been in regulated spaces where deterministic and probabilistic outputs meet and the margin for error is thin. Traceability, auditability, and explainability are what carry an AI product from a working model to a trusted experience.
+I've led portfolios of revenue-generating AI and data products in regulated B2B SaaS. Most recently at MasterControl I launched the company's first GA AI product, a predictive scoring model in a human-in-the-loop workflow surfaced through admin dashboards and in-app notifications. Before Gen AI, my work has spanned ML and data-science products fueling personalization, risk scoring, and forecasting.
 
 ## Featured: Project Meridian
 
