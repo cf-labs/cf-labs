@@ -2,6 +2,7 @@
 
 AI, data, and UX work as one system. Trust starts with meeting users in their workflow and giving them real value. It holds when measured by evals for its use case, and the underlying services, data contracts, and permissions are designed in from the start.
 
+
 ## Currently building: Project Meridian
 
 Finding local events means searching across a multitude of disconnected sources, city and venue sites, tourism boards, social media, and ticketing platforms. Project Meridian pulls thousands of events a month into one feed for discovery and planning, filterable and searchable down to your area. It personalizes to the categories you follow and grows over time. A consumer iOS app, launching July 2026 starting in the Utah market. Calling it Project Meridian until launch.
