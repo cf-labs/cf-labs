@@ -1,12 +1,8 @@
-## Product leader and AI-native builder
+### Product leader and AI-native builder
 
 AI, data, and UX work as one system. Trust starts with meeting users in their workflow and giving them real value. It holds when measured by evals for its use case, and the underlying services, data contracts, and permissions are designed in from the start.
 
-## About
-
-I've led portfolios of revenue-generating AI and data products in regulated B2B SaaS. Most recently at MasterControl I launched the company's first GA AI product, a predictive scoring model in a human-in-the-loop workflow surfaced through admin dashboards and in-app notifications. Before Gen AI, my work has spanned ML and data-science products fueling personalization, risk scoring, and forecasting.
-
-## Featured: Project Meridian
+## Currently building: Project Meridian
 
 Finding local events means searching across a multitude of disconnected sources, city and venue sites, tourism boards, social media, and ticketing platforms. Project Meridian pulls thousands of events a month into one feed for discovery and planning, filterable and searchable down to your area. It personalizes to the categories you follow and grows over time. A consumer iOS app, launching July 2026 starting in the Utah market. Calling it Project Meridian until launch.
 
@@ -18,6 +14,10 @@ I architected and built two systems end to end through agentic engineering, one 
 I run a 5 layer deterministic dedup custom model, then enrich and classify all records with AI using a Claude API. I built my own evals and landed at 100% precision, held to a 95% confidence level, with ~68% recall and an F1 of 0.81. I brought the same discovery and spec discipline I use on enterprise products, and built it myself orchestrating 20+ AI agent personas across disciplines the way a SaaS firm collaborates and builds.
 
 Coming the week of June 22, 2026: The Project Meridian architecture guide. It walks the full design and the evals behind the build.
+
+## About
+
+I've led portfolios of revenue-generating AI and data products in regulated B2B SaaS. Most recently at MasterControl I launched the company's first GA AI product, a predictive scoring model in a human-in-the-loop workflow surfaced through admin dashboards and in-app notifications. Before Gen AI, my work has spanned ML and data-science products fueling personalization, risk scoring, and forecasting.
 
 ## How I work
 
