@@ -12,7 +12,7 @@ I've led portfolios of revenue-generating data and AI products across e-commerce
 
 Finding local events means searching across a multitude of disconnected sources, city and venue sites, tourism boards, social media, and ticketing platforms. Project Meridian pulls thousands of events a month into one feed for discovery and planning, filterable and searchable down to your area. It personalizes to the categories you follow and grows over time. A consumer iOS app, launching July 2026 starting in the Utah market. Calling it Project Meridian until launch.
 
-I architected and built it end to end through agentic engineering: two systems, one feeding the other.
+I architected and built two systems end to end through agentic engineering, one feeding the other:
 
 - **A headless data product:** Python ingestion across APIs, feeds, and structured scraping, enriched by an AI layer and normalized into a canonical Postgres schema. Architected to power app services and a B2B API.
 - **The app:** a React Native and TypeScript iOS client, built on a design system of tokens and atomic components, with auth flows and accessibility built in.
