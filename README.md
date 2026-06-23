@@ -18,11 +18,9 @@ Aggregating this many sources and events is a data-quality and AI-evals problem 
 
 Before launch I hand-labeled a ground-truth set of 157 event pairs and tuned for precision over recall, because a duplicate that reaches a user costs more than an event we miss. On that set it holds 100% precision at roughly 68% recall, an F1 of 0.81. I brought the same discovery and spec discipline I use on enterprise products, and built it myself orchestrating 14+ AI agent personas as multi-disciplinary review and development pods.
 
-**The Project Meridian architecture guide is live.** A seven-page visual walkthrough of the system design and the evals behind the build.
+**[Check out the architecture guide here](https://github.com/cf-labs/meridian-architecture-guide).** A seven-page visual walkthrough of the system design and the evals behind the build.
 
 [![Project Meridian architecture guide: a seven-page visual walkthrough of the system architecture and the evals behind the build](https://raw.githubusercontent.com/cf-labs/meridian-architecture-guide/main/images/page-1-dark.png)](https://github.com/cf-labs/meridian-architecture-guide)
-
-**[Read the architecture guide →](https://github.com/cf-labs/meridian-architecture-guide)**
 
 ## How I work
 
