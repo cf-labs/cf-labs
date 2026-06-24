@@ -14,11 +14,25 @@ I architected and built two systems end to end through agentic engineering, one 
 - **A headless data product:** Python ingestion across APIs, feeds, and structured scraping, enriched by an AI layer and normalized into a canonical Postgres schema. Built to power the app, and API-ready by design.
 - **The app:** a React Native and TypeScript iOS client, built on a design system of tokens and atomic components, with auth flows and accessibility built in.
 
-Aggregating this many sources and events is a data-quality and AI-evals problem before it becomes a product. I built a five-stage deterministic dedup pass that collapses the same event arriving from different sources, then I enrich and classify all records with AI using a Claude API.
+Aggregating this many sources and events is data-quality and AI-evals work before it becomes a product.
 
-Before launch I hand-labeled a ground-truth set of 157 event pairs and tuned for precision over recall, because a duplicate that reaches a user costs more than an event we miss. On that set it holds 100% precision at roughly 68% recall, an F1 of 0.81. I brought the same discovery and spec discipline I use on enterprise products, and built it myself orchestrating 14+ AI agent personas as multi-disciplinary review and development pods.
+I brought the same discovery and spec discipline I use on enterprise products, and built it myself orchestrating 20+ AI agent personas as multi-disciplinary review and development pods.
 
 **[Check out the architecture guide here](https://github.com/cf-labs/meridian-architecture-guide).** A seven-page visual walkthrough of the system design and the evals behind the build.
+
+
+<details>
+<summary><b>Expand to preview the 7 sections</b></summary>
+  
+- System Architecture & Tech Stack
+- Data Ingestion Pipeline
+- Deduplication & Ground-Truth Precision
+- AI Enrichment & Custom Evals
+- Database & API Contract Design
+- Frontend Architecture & Design System
+- AI-Native Engineering Practices
+
+</details>
 
 [![Project Meridian architecture guide: a seven-page visual walkthrough of the system architecture and the evals behind the build](https://raw.githubusercontent.com/cf-labs/meridian-architecture-guide/main/images/page-1-dark.png)](https://github.com/cf-labs/meridian-architecture-guide)
 
